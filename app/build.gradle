@@ -8,7 +8,7 @@ android {
     compileSdk = 35
     defaultConfig {
         applicationId "com.doubleangels.nextdnsmanagement"
-        minSdkVersion 32
+        minSdkVersion 31
         targetSdk = 35
         versionCode 263
         versionName "5.5.14"
